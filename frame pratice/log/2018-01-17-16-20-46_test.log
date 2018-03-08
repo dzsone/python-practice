@@ -1,0 +1,2 @@
+2018-01-17 16:20:46,882 - framework - INFO - <connection object at 0x0000000002EA3780; dsn: 'user=postgres password=xxx dbname=jmtool0705 host=121.196.200.254 port=5432', closed: 0>
+2018-01-17 16:20:47,016 - framework - INFO - Select * from tbl_area where area_name = '雅域尚座'

@@ -1,0 +1,2 @@
+2018-01-17 16:18:34,950 - framework - INFO - <cursor object at 0x0000000001E01BA8; closed: 0>
+2018-01-17 16:18:35,087 - framework - INFO - Select * from tbl_area where area_name = '雅域尚座'

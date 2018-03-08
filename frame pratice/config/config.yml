@@ -1,0 +1,14 @@
+URL: http://www.baidu.com
+log:
+    #file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+DB:
+    db_name : jmtool0705
+    db_user : postgres
+    db_password : postgres
+    db_ip : 121.196.200.254
+    db_port : 5432
