@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$/../locastPy" />
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../selenium project" />
-    <orderEntry type="jdk" jdkName="Python 3.6.2 (C:\Users\aha\AppData\Local\Programs\Python\Python36\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.2 (C:\Users\aha\AppData\Local\Programs\Python\Python36\python3.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
